@@ -39,5 +39,5 @@ No, there are other apps on the market that do this much better. This was a simp
 
 #### Contributors
 
-Ivan Smirnov
+Ivan Smirnov  
 Created using the [ Tasker App Factory ](https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory) 
