@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![screenshot]()
+![screenshot.png]()
 
 Without this app I got about 8 hour of battery life. With this app I managed a record of 25 hours, on moderate usage.
 
@@ -40,4 +40,4 @@ No, there are other apps on the market that do this much better. This was a simp
 #### Contributors
 
 Ivan Smirnov
-Created using the [[ https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory | Tasker App Factory ]] 
+Created using the [ Tasker App Factory ](https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory) 
